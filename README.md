@@ -1,16 +1,34 @@
-# daily_motivation
+# Daily Motivation App
 
-A new Flutter project.
+A simple Flutter app that displays **random motivational quotes** with a polished UI.  
+Perfect for daily inspiration and practicing Flutter UI/State management.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## **Features**
+- Random quote generator  
+- Smooth fade animation when the quote changes  
+- Styled quote card with gradient background  
+- Polished button and AppBar design  
+- Works offline (no internet needed)
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](path/to/screenshot.png)
+
+---
+
+## **Technologies Used**
+- **Flutter** - UI development  
+- **Dart** - Programming language  
+- **AnimatedSwitcher** - For smooth fade animation
+
+---
+
+## **Getting Started**
+
+1. Clone the repository:
+```bash
+git clone https://github
